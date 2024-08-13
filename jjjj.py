@@ -1,1 +1,6 @@
-print('kkkkkkkkkkkkkkkkkkk')
+print('oh neymá oh neymá')
+print('oh neymá oh neymá')
+print('oh neymá oh neymá')
+print('oh neymá oh neymá')
+print('oh neymá oh neymá')
+print('oh neymá oh neymá')
